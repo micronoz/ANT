@@ -1,0 +1,12 @@
+{
+    "symbols":{
+        "name":"symbols.csv",
+        "separator":","
+    },
+    "date_range":{
+        "start":"01/01/2000",
+        "end":"current",
+        "format":"mm/dd/yyyy"
+    },
+    "path":"./Data"
+}
